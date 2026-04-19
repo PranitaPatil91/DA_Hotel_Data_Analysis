@@ -29,10 +29,10 @@ Hotel businesses face challenges such as high cancellation rates and fluctuating
 
 ##  Data Visualization
 •	Use charts such as: 
-o	Bar charts 
-o	Line plots 
-o	Pie charts 
-o	Distribution plots 
+  o	Bar charts 
+  o	Line plots 
+  o	Pie charts 
+  o	Distribution plots 
 
 ##  Methodology
 The project will follow these steps:
