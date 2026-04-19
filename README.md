@@ -3,7 +3,8 @@
 This project focuses on analyzing hotel booking data to identify patterns in customer behavior, booking trends, and factors affecting cancellations. The goal is to gain insights that can help improve business decisions in the hospitality industry.
 
 ##  Student Details
-- Name: Pranita Vinodkumar Patil  
+- Name: Pranita Vinodkumar Patil
+- Email: pranitapatil912004@gmail.com
 - Class/Division: TY. ECM
 - Roll Number: 66
 
